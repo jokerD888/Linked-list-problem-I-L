@@ -1,0 +1,3 @@
+﻿  test.c
+E:\代码\VS\test_3_12\test_3_12\test.c(89,16): warning C4098: “print”:“void”函数返回值
+  test_3_12.vcxproj -> E:\代码\VS\test_3_12\Debug\test_3_12.exe
